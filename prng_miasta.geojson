@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "prng_miasta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id_prng": "5059", "naz_glowna": "Białystok", "funkc_adm": "siedziba wojewody", "woj": "podlaskie", "symbol": 1 }, "geometry": { "type": "Point", "coordinates": [ 23.163055555553569, 53.132499999470561 ] } },
+{ "type": "Feature", "properties": { "id_prng": "13957", "naz_glowna": "Bydgoszcz", "funkc_adm": "siedziba wojewody", "woj": "kujawsko-pomorskie", "symbol": 2 }, "geometry": { "type": "Point", "coordinates": [ 18.00143382712832, 53.125394244600578 ] } },
+{ "type": "Feature", "properties": { "id_prng": "32211", "naz_glowna": "Gdańsk", "funkc_adm": "siedziba wojewody", "woj": "pomorskie", "symbol": 3 }, "geometry": { "type": "Point", "coordinates": [ 18.653611110364626, 54.349722222110294 ] } },
+{ "type": "Feature", "properties": { "id_prng": "35181", "naz_glowna": "Gorzów Wielkopolski", "funkc_adm": "siedziba wojewody", "woj": "lubuskie", "symbol": 4 }, "geometry": { "type": "Point", "coordinates": [ 15.239388234206762, 52.731927991023305 ] } },
+{ "type": "Feature", "properties": { "id_prng": "51380", "naz_glowna": "Katowice", "funkc_adm": "siedziba wojewody", "woj": "śląskie", "symbol": 5 }, "geometry": { "type": "Point", "coordinates": [ 19.013333333969772, 50.259722221880999 ] } },
+{ "type": "Feature", "properties": { "id_prng": "52837", "naz_glowna": "Kielce", "funkc_adm": "siedziba wojewody", "woj": "świętokrzyskie", "symbol": 6 }, "geometry": { "type": "Point", "coordinates": [ 20.631493494915141, 50.871737346552521 ] } },
+{ "type": "Feature", "properties": { "id_prng": "61204", "naz_glowna": "Kraków", "funkc_adm": "siedziba wojewody", "woj": "małopolskie", "symbol": 7 }, "geometry": { "type": "Point", "coordinates": [ 19.937369723436476, 50.061781182975373 ] } },
+{ "type": "Feature", "properties": { "id_prng": "70301", "naz_glowna": "Lublin", "funkc_adm": "siedziba wojewody", "woj": "lubelskie", "symbol": 8 }, "geometry": { "type": "Point", "coordinates": [ 22.568033939305163, 51.247888477164466 ] } },
+{ "type": "Feature", "properties": { "id_prng": "73598", "naz_glowna": "Łódź", "funkc_adm": "siedziba wojewody", "woj": "łódzkie", "symbol": 9 }, "geometry": { "type": "Point", "coordinates": [ 19.463055555231495, 51.764444444220459 ] } },
+{ "type": "Feature", "properties": { "id_prng": "92776", "naz_glowna": "Olsztyn", "funkc_adm": "siedziba wojewody", "woj": "warmińsko-mazurskie", "symbol": 10 }, "geometry": { "type": "Point", "coordinates": [ 20.479969105176529, 53.778921551311292 ] } },
+{ "type": "Feature", "properties": { "id_prng": "93352", "naz_glowna": "Opole", "funkc_adm": "siedziba wojewody", "woj": "opolskie", "symbol": 11 }, "geometry": { "type": "Point", "coordinates": [ 17.926945692228028, 50.664714200487737 ] } },
+{ "type": "Feature", "properties": { "id_prng": "109574", "naz_glowna": "Poznań", "funkc_adm": "siedziba wojewody", "woj": "wielkopolskie", "symbol": 12 }, "geometry": { "type": "Point", "coordinates": [ 16.93346749421627, 52.407918365689142 ] } },
+{ "type": "Feature", "properties": { "id_prng": "119861", "naz_glowna": "Rzeszów", "funkc_adm": "siedziba wojewody", "woj": "podkarpackie", "symbol": 13 }, "geometry": { "type": "Point", "coordinates": [ 22.000000000472983, 50.039999999725829 ] } },
+{ "type": "Feature", "properties": { "id_prng": "134621", "naz_glowna": "Szczecin", "funkc_adm": "siedziba wojewody", "woj": "zachodniopomorskie", "symbol": 14 }, "geometry": { "type": "Point", "coordinates": [ 14.546759658428769, 53.431814188304905 ] } },
+{ "type": "Feature", "properties": { "id_prng": "140213", "naz_glowna": "Toruń", "funkc_adm": "siedziba sejmiku województwa", "woj": "kujawsko-pomorskie", "symbol": 15 }, "geometry": { "type": "Point", "coordinates": [ 18.605666442881361, 53.012953192534773 ] } },
+{ "type": "Feature", "properties": { "id_prng": "151543", "naz_glowna": "Wrocław", "funkc_adm": "siedziba wojewody", "woj": "dolnośląskie", "symbol": 17 }, "geometry": { "type": "Point", "coordinates": [ 17.031977089404435, 51.109980455219954 ] } },
+{ "type": "Feature", "properties": { "id_prng": "161263", "naz_glowna": "Zielona Góra", "funkc_adm": "siedziba sejmiku województwa", "woj": "lubuskie", "symbol": 18 }, "geometry": { "type": "Point", "coordinates": [ 15.503820302904892, 51.939161044209612 ] } },
+{ "type": "Feature", "properties": { "id_prng": "144333", "naz_glowna": "Warszawa", "funkc_adm": "miasto stołeczne", "woj": "mazowieckie", "symbol": 16 }, "geometry": { "type": "Point", "coordinates": [ 21.006666666662809, 52.231944444126874 ] } }
+]
+}
