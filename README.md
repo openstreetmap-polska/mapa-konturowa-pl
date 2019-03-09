@@ -1,5 +1,6 @@
-# mapa-konturowa-pl
+﻿# mapa-konturowa-pl
 Mapa konturowa Polski - Podział administracyjny województw
+pliki użyte do mapy konturowej, mapy administracyjnej oraz z miastami miast
 
 ## Style
 W katalogu qgis_style znajdują się pliki *.qml z wszystkimi użytymi w projekcie stylami. Przed rozpoczęciem pracy z projektem, prosimy o zainstalowanie czcionek (fontów) znajdujących się w katalogu osm_czcionka.
